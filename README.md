@@ -17,6 +17,3 @@ and optimizing web performance for scalability.
 
 💬 Ask me about full-stack development, UX/UI design, responsive web design, Ruby on Rails, 
 or any creative coding challenges.
-
-📫 How to reach me: You can reach me via email at dieppoisedouard@gmail.com 
-or connect with me on LinkedIn at linkedin.com/in/edouard-dieppois.
